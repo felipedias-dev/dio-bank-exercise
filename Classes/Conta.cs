@@ -27,7 +27,7 @@ namespace Bank.Challenge
 
       this.Saldo -= valorSaque;
 
-      Console.WriteLine("Saldo em conta: R$ {0:0.00}", this.Saldo);
+      Console.WriteLine("Saldo em conta de origem: R$ {0:0.00}", this.Saldo);
 
       return true;
     }
@@ -36,7 +36,7 @@ namespace Bank.Challenge
     {
       this.Saldo += valorDeposito;
 
-      Console.WriteLine("Saldo em conta: R$ {0:0.00}", this.Saldo);
+      Console.WriteLine("Saldo em conta de destino: R$ {0:0.00}", this.Saldo);
     }
 
     public bool Transferir(double valorTransferencia, Conta contaDestino)
