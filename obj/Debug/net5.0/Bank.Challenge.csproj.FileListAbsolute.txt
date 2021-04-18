@@ -1,0 +1,16 @@
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.exe
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.deps.json
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.runtimeconfig.json
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.runtimeconfig.dev.json
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.dll
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\ref\Bank.Challenge.dll
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\bin\Debug\net5.0\Bank.Challenge.pdb
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.csprojAssemblyReference.cache
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.AssemblyInfoInputs.cache
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.AssemblyInfo.cs
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.dll
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\ref\Bank.Challenge.dll
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.pdb
+C:\Users\Dias\code\study\DIO\bootcampLocaliza\Bank.Challenge\obj\Debug\net5.0\Bank.Challenge.genruntimeconfig.cache
